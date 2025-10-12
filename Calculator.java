@@ -1,14 +1,6 @@
-package Java-Mini-projects;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/**
- * A comprehensive, text-based scientific calculator with robust error handling.
- * This final version includes arithmetic, trigonometric, logarithmic, and conversion functions.
- *
- * @author Gemini Assistant & User
- * @version 2.0 (October 2025)
- */
 public class Calculator {
 
     private static final Scanner sc = new Scanner(System.in);
@@ -226,7 +218,7 @@ public class Calculator {
         int num = readIntegerInput();
         System.out.println("Binary: " + Integer.toBinaryString(num));
         System.out.println("Octal: " + Integer.toOctalString(num));
-        System.out.println("Hexadecimal: " + Integer.toHexString(num));
+        System.out.println("Hexadecimal: " + Integer.toHexString(num).toUpperCase());
     }
 
     private static void performUnitConversion() {
