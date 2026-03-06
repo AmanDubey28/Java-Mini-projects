@@ -3,7 +3,7 @@
 Feel free to connect with me!
 
 [![My LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Aman%20Dubey-0A66C2?logo=linkedin)](https://www.linkedin.com/in/aman-dubey-904b59248/)
-[![My GitHub Profile](https://img.shields.io/badge/GitHub-Aman7081-181717?logo=github)](https://github.com/Aman7081)
+[![My GitHub Profile](https://img.shields.io/badge/GitHub-Aman7081-181717?logo=github)](https://github.com/AmanDubey28)
 # Java-Mini-projects
 <br>
 # A Collection of Beginner-Friendly Java Projects ☕
